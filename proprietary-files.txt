@@ -19,6 +19,8 @@ lib/libril_sitril.so
 lib/librilutils_sitril.so
 lib64/libril_sitril.so
 lib64/librilutils_sitril.so
+lib/hw/fingerprint.m86.so
+lib64/hw/fingerprint.m86.so
 etc/firmware/audience/cvqmodels/adnc_cvq_detection_bkg.bin
 etc/firmware/audience/cvqmodels/adnc_cvq_detection_bkg_w_hdrs.bin
 etc/firmware/audience/cvqmodels/adnc_cvq_training_bkg.bin
